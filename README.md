@@ -1,9 +1,9 @@
 # Technology Learning Studio
 
 * September
-	* [September 1st](#2017-09-01) Initial Post
-	* [September 4th](#2017-09-04) Description of Golang Motivations
-	* [September 6th](#2017-09-06) Topics, Goals, and Materials for Each of the 3 Projects
+	* [September 1st](#2017-09-01) - Initial Post
+	* [September 4th](#2017-09-04) - Description of Golang Motivations
+	* [September 6th](#2017-09-06) - Topics, Goals, and Materials for Each of the 3 Projects
 * October
 
 ## Learning Golang
