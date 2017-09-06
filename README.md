@@ -1,6 +1,9 @@
 # Technology Learning Studio
 
 * September
+	* September 1st
+	* September 4th
+	* September 6th
 * October
 
 ## Learning Golang
