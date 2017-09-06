@@ -1,4 +1,8 @@
 # Technology Learning Studio
+
+* September
+* October
+
 ## Learning Golang
 
 ### 2017-09-01
@@ -18,3 +22,7 @@ The reason I've chosen Go is because, from research I've done, it is considered 
 If for some reason I complete the course for Go, I will begin another course on the same Greater Commons site called, "Web Development with Google's Go Programming Language (golang)."
 
 As I complete the course, my "Go Report Card" for the repository can be found [here](https://goreportcard.com/report/github.com/brentbiglin/greater-commons-go), which checks the format and "lint" of my exercise programs.
+
+### 2017-09-06
+
+
