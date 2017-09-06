@@ -3,7 +3,8 @@
 * September
 	* [September 1st](#2017-09-01) - Initial Post
 	* [September 4th](#2017-09-04) - Description of Golang Motivations
-	* [September 6th](#2017-09-06) - Topics, Goals, and Materials for Each of the 3 Projects
+	* [September 6th](#2017-09-06_01) - Topics, Goals, and Materials for Each of the 3 Projects
+	* [September 6th](#2017-09-06_02) - Progress Report
 * October
 
 ## Learning Golang
@@ -26,7 +27,7 @@ If for some reason I complete the course for Go, I will begin another course on 
 
 As I complete the course, my "Go Report Card" for the repository can be found [here](https://goreportcard.com/report/github.com/brentbiglin/greater-commons-go), which checks the format and "lint" of my exercise programs.
 
-### 2017-09-06
+### 2017-09-06_01
 
 #### Topic 1: Go
 
@@ -57,3 +58,9 @@ My goal is to make a noticeable improvement in my drawing and sketching abilitie
 ##### Materials
 
 I've purchased a set of [Uni Pin Drawing Pens](https://www.amazon.com/gp/product/B00F38T9C4/) with 6 assorted tip sizes and a [Strathmore Series 400](https://www.amazon.com/gp/product/B0027A39PY) sketch pad.
+
+### 2017-09-06_02
+
+#### Progress Update
+
+I'm now finished with section 9 of 29 of the golang course. We've gone through the origins of Go and a bit about its creators; the fundaments of variables, values, and type; programming fundaments like bools, number types, string types, number systems like hexademical, binary, and decimal, constants, iota, and bit shifting; loops and conditionals; and arrays, slices, and maps. Some of the sections are exercise sections, in which I'm given a problem to solve or a program to write, and then I check my work. I had a bit of trouble with slices and arrays because of the syntax (too many brackets, curlies, and parentheses all together), but I plan on reviewing these sections. The next section, which deals primarily with structs, appears to build on these concepts so I think I'll continue to get more practice with them as I go along.
