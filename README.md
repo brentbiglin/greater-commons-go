@@ -42,7 +42,7 @@ All that is required is the Go programming language and the $GOPATH with a devel
 
 ##### Goal
 
-My goal is to create a checkout system or the various devices that are available to students from the IT Lab. Up until now, reservations, checkouts, and overdue devices have been recorded by hand. Presently, a workaround has been developed by the lab TAs to use Google Sheets and Google Forms. An optimized and standardized application developed for the lab's specific needs is required. The tool that I will use does not have a reservation/overdue notice feature, so the bulk of my work will be developing and optimizing that.
+My goal is to create a checkout system or the various devices that are available to students from the IT Lab. Up until now, reservations, checkouts, and overdue devices have been recorded by hand. Presently, a workaround has been developed by the lab TAs to use Google Sheets and Google Forms. An optimized and standardized application developed for the lab's specific needs is required. The tool that I will use does not have a reservation/overdue notice feature, so my stretch goal will be developing and optimizing that..
 
 ##### Materials
 
@@ -52,7 +52,7 @@ I'll be using the [Ponzu CMS and Server Framework](https://docs.ponzu-cms.org/) 
 
 ##### Goal
 
-My goal is to make a noticeable improvement in my drawing and sketching abilities, particularly for sketching prototypes and user scenarios. I will sketch and draw a set group of figures/subjects and document my progress and improvement each day.
+My goal is to make a noticeable improvement in my drawing and sketching abilities, particularly for sketching prototypes and user scenarios. I will sketch and draw a set group of figures/subjects and document my progress and improvement each day. My stretch goal is to become proficient in drawing human faces confidently.
 
 ##### Materials
 
