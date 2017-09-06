@@ -28,4 +28,32 @@ As I complete the course, my "Go Report Card" for the repository can be found [h
 
 ### 2017-09-06
 
+#### Topic 1: Go
 
+##### Goal
+
+My simplest goal is to complete the "Learn How to Code: Google's Go (golang) Programming Language" course on the Greater Commons site. This course has 29 sections of about 5-7 lessons each. I believe it's a significant amount of work, but an achievable goal. If I complete this course, my stretch goal is to complete "Web Development with Google's Go Programming Language (golang)," which is also a Greater Commons course. It has 18 sections with the number of lessons ranging from 2 to 24. I am confident that these two courses provide more than enough work for one month.
+
+##### Materials
+
+All that is required is the Go programming language and the $GOPATH with a development environment. I'm using vim with a vim-go plugin, which allows me to format and run Go programs very easily. Each lesson is documented here in the repository.
+
+#### Topic 2: Checkout System with Ponzu CMS and Server Framework
+
+##### Goal
+
+My goal is to create a checkout system or the various devices that are available to students from the IT Lab. Up until now, reservations, checkouts, and overdue devices have been recorded by hand. Presently, a workaround has been developed by the lab TAs to use Google Sheets and Google Forms. An optimized and standardized application developed for the lab's specific needs is required. The tool that I will use does not have a reservation/overdue notice feature, so the bulk of my work will be developing and optimizing that.
+
+##### Materials
+
+I'll be using the [Ponzu CMS and Server Framework](https://docs.ponzu-cms.org/) to develop the application and requested features.
+
+#### Topic 3: Drawing and Sketching
+
+##### Goal
+
+My goal is to make a noticeable improvement in my drawing and sketching abilities, particularly for sketching prototypes and user scenarios. I will sketch and draw a set group of figures/subjects and document my progress and improvement each day.
+
+##### Materials
+
+I've purchased a set of [Uni Pin Drawing Pens](https://www.amazon.com/gp/product/B00F38T9C4/) with 6 assorted tip sizes and a [Strathmore Series 400](https://www.amazon.com/gp/product/B0027A39PY) sketch pad.
