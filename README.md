@@ -1,14 +1,14 @@
 # Technology Learning Studio
 
 * September
-	* September 1st
+	* [September 1st](#2017-09-04)
 	* September 4th
 	* September 6th
 * October
 
 ## Learning Golang
 
-### 2017-09-01
+### <a name="2017-09-01"></a>2017-09-01
 
 This readme acts as a blog for Professor Howison's Technology Learning Studio course at the University of Texas at Austin. I'll document my learning process here.
 
