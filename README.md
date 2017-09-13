@@ -5,7 +5,7 @@
 	* [September 4th](#2017-09-04) - Description of Golang Motivations
 	* [September 6th](#2017-09-06_01) - Topics, Goals, and Materials for Each of the 3 Projects
 	* [September 6th](#2017-09-06_02) - Progress Report
-* October
+	* [September 13th](#2017-09-13) - What the Func
 
 ## Learning Golang
 
@@ -64,3 +64,27 @@ I've purchased a set of [Uni Pin Drawing Pens](https://www.amazon.com/gp/product
 #### Progress Update
 
 I'm now finished with section 9 of 29 of the golang course. We've gone through the origins of Go and a bit about its creators; the fundaments of variables, values, and type; programming fundaments like bools, number types, string types, number systems like hexademical, binary, and decimal, constants, iota, and bit shifting; loops and conditionals; and arrays, slices, and maps. Some of the sections are exercise sections, in which I'm given a problem to solve or a program to write, and then I check my work. I had a bit of trouble with slices and arrays because of the syntax (too many brackets, curlies, and parentheses all together), but I plan on reviewing these sections. The next section, which deals primarily with structs, appears to build on these concepts so I think I'll continue to get more practice with them as I go along.
+
+### 2017-09-13
+
+#### What the Func
+
+I've reached the part of my lesson where we're starting to deal with functions, their receivers, parameters, and returns. I've understood the basics pretty well, but I still feel like a lot of the concepts are uncharted territory. The lessons have definitely shifted gear into a bit more advanced concepts. One thing I had a lot of trouble with is the syntax for creating and referencing a slice.
+
+```go
+x := []int{1, 2, 3}
+```
+has the same effect as 
+
+```go
+x := make([]int, 3, 3)
+x[0] = 1
+x[1] = 2
+x[2] = 3
+```
+
+It's just a few too many brackets, parentheses, and braces in different situations for me to get a handle on without a significant amount of practice. I think that this week I'll redo and review some of the exercises that are interspersed through the course so I don't move ahead before getting some of these fundamentals down, even though I doubt these things will become second-nature until/unless I start working on a project using Go in the future.
+
+The Austin Go Meetup that I was planning on attending this month just released their topic, and it's "n00b Month." Very fortunate for me! They're going to go over the basics of the language, including the history, who invented it, and why. I'm hoping to meet other beginners in the language so that I can ask them how they're learning and what kind of resources they've found. I think that in general, it will be very beginner-friendly and many members will probably be expecting to field questions from people just starting out with the language.
+
+I've also started to explore the official [Go Forum](https://forum.golangbridge.org/), which tends to have pretty advanced topics and very specific issues, and the [Gopher Academy Slack](https://blog.gopheracademy.com/gophers-slack-community/), which has a channel specifically for beginners.
