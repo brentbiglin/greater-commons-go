@@ -6,6 +6,7 @@
 	* [September 6th](#2017-09-06_01) - Topics, Goals, and Materials for Each of the 3 Projects
 	* [September 6th](#2017-09-06_02) - Progress Report
 	* [September 13th](#2017-09-13) - What the Func
+	* [September 20th](#2017-09-20) - Growth Mindset
 
 ## Learning Golang
 
@@ -88,3 +89,15 @@ It's just a few too many brackets, parentheses, and braces in different situatio
 The Austin Go Meetup that I was planning on attending this month just released their topic, and it's "n00b Month." Very fortunate for me! They're going to go over the basics of the language, including the history, who invented it, and why. I'm hoping to meet other beginners in the language so that I can ask them how they're learning and what kind of resources they've found. I think that in general, it will be very beginner-friendly and many members will probably be expecting to field questions from people just starting out with the language.
 
 I've also started to explore the official [Go Forum](https://forum.golangbridge.org/), which tends to have pretty advanced topics and very specific issues, and the [Gopher Academy Slack](https://blog.gopheracademy.com/gophers-slack-community/), which has a channel specifically for beginners.
+
+### 2017-09-20
+
+#### Growth Mindset
+
+The readings that we considered for this past week reminded me of Angela Lee Duckworth's study on what she calls "grit," or a "special blend of passion and persistence." Her studies have demonstrated that people with an unwillingness to give up unsurprisingly achieve their goals more consistently than those who don't. The surprising thing was that this was regardless of intelligence or circumstances.
+
+When I taught Arabic, I told students that I refused to accept the excuse that they weren't "good at languages." One of my favorite responses was, "You've already learned one language, so you can't convince me that you can't learn another," or if they were having trouble pronouncing a particular letter and said they'd never be able to, I pointed out that their tongue was a muscle that needed to be exercised. If they wanted to start lifting, they wouldn't try to lift 400 pounds, fail, and then give up forever. They have to approximate the sound they want to make and make fools of themselves until their tongue strengthens and learns how to pronounce it. Many students responded to this because the idea that we can become stronger through exercise is a given, while many people because they're "not smart" or "not good at" something in regards to their intellect or some kind of cerebral skill like music. 
+
+This is particularly relevant for me now because my Go exercises are getting increasingly difficult and I'm feeling more and more overwhelmed. Before, I could go through each exercise one by one and understand them perfectly, building on each lesson. Now the code is starting to get complicated and multifaceted and I have to concentrate, pause the video, or read the documentation before I feel confident enough to go on to the next lesson. I have a vision of myself telling students, "If I showed up to class, told you a bunch of things you already knew, tested you on it, and then gave you a grade of 100%, it would be a waste of everyone's time because you wouldn't have learned anything." Now I have to convince myself of this fact.
+
+Tonight, I'm going to the Austin Go Meetup and will have observations and insights to report. Concerning my physical project, I've decided to use pencils for my sketching and drawing because Dr. Pavelka requests that we don't use pens in the paper lab, which is all the same to me.
