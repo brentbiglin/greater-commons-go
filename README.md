@@ -7,7 +7,8 @@
 	* [September 6th](#2017-09-06_02) - Progress Report
 	* [September 13th](#2017-09-13) - What the Func
 	* [September 20th](#2017-09-20) - Growth Mindset
-	* [September 27th](#2017-09-27) - Austin Golang Meetup
+	* [September 27th](#2017-09-27_01) - Austin Golang Meetup
+	* [September 27th](#2017-09-27_02) - Golang Retrospective
 
 ## Learning Golang
 
@@ -103,7 +104,7 @@ This is particularly relevant for me now because my Go exercises are getting inc
 
 Tonight, I'm going to the Austin Go Meetup and will have observations and insights to report. Concerning my physical project, I've decided to use pencils for my sketching and drawing because Dr. Pavelka requests that we don't use pens in the paper lab, which is all the same to me.
 
-### 2017-09-27
+### 2017-09-27_01
 
 #### Austin Golang Meetup
 
@@ -131,3 +132,13 @@ Then he discussed the standard library and the community/unofficial packages, wh
 The tone of the presentation was pretty informal, particularly near the end. The presenter had a kind of dry, subdued yet engaging demeanor, and welcomed comments and questions from the audience through his whole presentation. He allowed himself to go on a couple of tangents and even showed us a recording of a sort of comedy conference presentation that he had seen called ["useing you're type's good"](https://www.destroyallsoftware.com/talks/useing-youre-types-good) by Gary Bernhardt.
 
 Overall, this kind of meetup was good for programmers who knew very little about Go, but for someone who is a beginner in both Go and programming in general, the information went very quickly from "general information about the language" to "nuanced discussion of how to implement Go in very particular ways." The kinds of things I've been learning about in my Go course were not addressed, as these are programming fundamentals and it would be pretty easy for a programmer to pick these kinds of things up quickly based on their previous experience with other languages. Until I reach a particular level of proficiency with Go, I don't think I'll be regularly attending the meetup unless the month's topic really stands out and interests me.
+
+### 2017-09-27_02
+
+#### Golang Retrospective
+
+Last week I was feeling pretty frustrated because I was running into a wall in my exercises, and I had to watch the solutions to "complete" them, which made me feel like I hadn't really completed them. This week was very different, because the lessons shifted to using other packages, for example, to sort slices of integers and strings and to change Golang slices into JSON and vice-versa. For me this was pretty easy and a lot less abstract, and I feel a lot more confident about continuing to learn Go past this project.
+
+I was reminded of the growth mindset, and I'm sure that even though I feel like I was banging my head against the wall with earlier exercises, I probably absorbed a little of it. I was initially having trouble with slices, which I'm now using with ease. Last week structs were pretty confounding, but a little less-so this week. The important thing is to just push through, or focus on other aspects of the language or move on to other lessons instead of getting bogged down.
+
+I have decided to begin my drawing and sketching project next week instead of the CMS for a reservation system. I'm also considering changing my CMS idea to something else, as I'm less excited by the idea and feel like I might want to learn Go a little more thoroughly before I begin a project and maybe sidetrack myself. Either way, I'll begin with drawing next week. I've found a lot of Lynda.com videos for different kinds of tutorials, and I've gotten advice from artists I know about the best way to begin a short drawing project.
