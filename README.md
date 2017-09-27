@@ -7,6 +7,7 @@
 	* [September 6th](#2017-09-06_02) - Progress Report
 	* [September 13th](#2017-09-13) - What the Func
 	* [September 20th](#2017-09-20) - Growth Mindset
+	* [September 27th](#2017-09-27) - Austin Golang Meetup
 
 ## Learning Golang
 
@@ -101,3 +102,32 @@ When I taught Arabic, I told students that I refused to accept the excuse that t
 This is particularly relevant for me now because my Go exercises are getting increasingly difficult and I'm feeling more and more overwhelmed. Before, I could go through each exercise one by one and understand them perfectly, building on each lesson. Now the code is starting to get complicated and multifaceted and I have to concentrate, pause the video, or read the documentation before I feel confident enough to go on to the next lesson. I have a vision of myself telling students, "If I showed up to class, told you a bunch of things you already knew, tested you on it, and then gave you a grade of 100%, it would be a waste of everyone's time because you wouldn't have learned anything." Now I have to convince myself of this fact.
 
 Tonight, I'm going to the Austin Go Meetup and will have observations and insights to report. Concerning my physical project, I've decided to use pencils for my sketching and drawing because Dr. Pavelka requests that we don't use pens in the paper lab, which is all the same to me.
+
+### 2017-09-27
+
+#### Austin Golang Meetup
+
+Last Wednesday after our studio time, I went to the Capital Factory to the Austin Golang Meetup, which was n00b or Newbie night (the naming varied). There were 19 people there, one of which was a woman, and not only was there pizza and beer, but half a keg of beer that was offered to us that was left over from a separate event. There was so much beer. In order to maintain a clear head as an observer, I abstained (until after the event was over).
+
+I appreciated that the host, Cody Soyland, emphasized and encouraged everyone to read the [Code of Conduc](https://golang.org/conduct)t, which I've actually integrated parts of for the CoC of our UXPA UT Austin student chapter. The host also made time before the presentation to allow the group to make announcements, which were mostly employment opportunities and offers of free stickers.
+
+The presenter was Jud White, and he has made the [slides of his presentation available on his GitHub account](https://github.com/judwhite/talks-goatx201709). His focus was on the basics of Go, including some more meta-information like (not exhaustive):
+
+* What's Go good at?
+	* Designed for servers and distributed systems
+	* Reliable and efficient
+* Why Go?
+	* Small language with 25 keywords
+	* Fast and low memory footprint
+	* Great community, easy to get help
+* Who's using Go?
+	* In Austin: GE, EA, Dropbox, Cisco, CloudFlare, Twitch
+	* Google, Netflix, Facebook, Atlassian, Soundcloud, Uber, Mozilla, Rackspace, Twitter
+
+Then he discussed the language features. For example, the fact that it's cross-platform and natively compiled, statically typed, and can return multiple values. A lot of the other information was tailored to programmers who were already familiar with programming concepts, but not Go in particular. Frankly, a lot of the rest went over my head. He said that Go has some "missing" features, like generics, overloads, and implicit type conversions—the last of which is the only one I understand.
+
+Then he discussed the standard library and the community/unofficial packages, which I think is a really great thing about Go. It allows people to use the work of others in a modular way. You're not just copying someone else's code and adapting their solution to your problem, but using a particular set of functions/tools that they developed. From there, the presentation became more of a back-and-forth between the presenter and other members of the group, discussing more advanced issues and implementations of Go. I followed along as best as I could, but the topics were so advanced that I didn't even bother taking notes—I just tried to glean what I could from the discussion, mostly through context clues.
+
+The tone of the presentation was pretty informal, particularly near the end. The presenter had a kind of dry, subdued yet engaging demeanor, and welcomed comments and questions from the audience through his whole presentation. He allowed himself to go on a couple of tangents and even showed us a recording of a sort of comedy conference presentation that he had seen called ["useing you're type's good"](https://www.destroyallsoftware.com/talks/useing-youre-types-good) by Gary Bernhardt.
+
+Overall, this kind of meetup was good for programmers who knew very little about Go, but for someone who is a beginner in both Go and programming in general, the information went very quickly from "general information about the language" to "nuanced discussion of how to implement Go in very particular ways." The kinds of things I've been learning about in my Go course were not addressed, as these are programming fundamentals and it would be pretty easy for a programmer to pick these kinds of things up quickly based on their previous experience with other languages. Until I reach a particular level of proficiency with Go, I don't think I'll be regularly attending the meetup unless the month's topic really stands out and interests me.
